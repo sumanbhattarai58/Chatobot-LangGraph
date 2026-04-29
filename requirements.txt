@@ -2,7 +2,8 @@ langchain
 langchain_community
 langgraph
 streamlit
-pdfplumber python-docx
+pdfplumber
+python-docx
 ddgs
 wikipedia
 sentence-transformers
