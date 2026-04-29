@@ -7,3 +7,4 @@ python-docx
 ddgs
 wikipedia
 sentence-transformers
+langchain-huggingface
